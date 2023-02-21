@@ -21,7 +21,7 @@ but in no particular order
 ![](https://upload.wikimedia.org/wikipedia/commons/3/38/Adorable-animal-cat-20787.jpg)
 
 ### Here is the YouTube Video of Pharrell Williams "Happy" music video:
-<a href="https://www.youtube.com/watch?v=ZbZSe6N_BXs" target="_blank"><img src="https://en.wikipedia.org/wiki/Happy_%28Pharrell_Williams_song%29#/media/File:Pharrell_Williams_-_Happy.jpg" 
+<a href="https://www.youtube.com/watch?v=ZbZSe6N_BXs" target="_blank"><img src="" 
 alt="Pharrell Williams- Happy" width="240" height="180" border="10" /></a>
 
 

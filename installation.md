@@ -14,6 +14,7 @@
 - inline code
 - code blocks
 - YouTube videos
+
 but in no particular order
 
 
@@ -25,7 +26,8 @@ but in no particular order
 alt="Pharrell Williams- Happy" width="240" height="180" border="10" /></a>
 
 
-### Here is a hyperlink to the Merriam-Webster definition of ["Happy"](https://www.merriam-webster.com/dictionary/happy)
+### Here is a hyperlink to the Merriam-Webster definition of:
+ ["Happy"](https://www.merriam-webster.com/dictionary/happy)
 
 
 ### Next is an inline code:

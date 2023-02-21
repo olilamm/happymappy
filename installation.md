@@ -37,4 +37,4 @@ Here is an incline code for my packpage `happymappy`
 pip install happymappy
 ```
 
-##**Thanks for visiting! **
+## Thanks for visiting! 

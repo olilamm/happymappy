@@ -22,13 +22,11 @@ but in no particular order
 ![](https://upload.wikimedia.org/wikipedia/commons/3/38/Adorable-animal-cat-20787.jpg)
 
 ### Here is the YouTube Video of Pharrell Williams "Happy" music video:
-<a href="https://www.youtube.com/watch?v=ZbZSe6N_BXs" target="_blank"><img src="" 
-alt="Pharrell Williams- Happy" width="240" height="180" border="10" /></a>
+![](https://www.youtube.com/watch?v=ZbZSe6N_BXs)
 
 
 ### Here is a hyperlink to the Merriam-Webster definition of:
- ["Happy"](https://www.merriam-webster.com/dictionary/happy)
-
+ ![Happy](https://www.youtube.com/watch?v=y6Sxv-sUYtM)
 
 ### Next is an inline code:
 Here is an incline code for my packpage `happymappy`

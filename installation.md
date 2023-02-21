@@ -4,6 +4,7 @@
 
 ## This markdown file will have:
 - headers
+    - see the headers above for an example
 - hyperlinks
 - images
 - unordered lists
@@ -17,9 +18,13 @@ but in no particular order
 
 
 ### Here is an image of something happy:
-![Blue](IMG_2652.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/3/38/Adorable-animal-cat-20787.jpg)
 
 ### Here is the YouTube Video of Pharrell Williams "Happy" music video:
 <a href="https://www.youtube.com/watch?v=ZbZSe6N_BXs" target="_blank"><img src="https://en.wikipedia.org/wiki/Happy_%28Pharrell_Williams_song%29#/media/File:Pharrell_Williams_-_Happy.jpg" 
 alt="Pharrell Williams- Happy" width="240" height="180" border="10" /></a>
+
+
+### Here is a hyperlink to the Merriam-Webster definition of ["Happy"](https://www.merriam-webster.com/dictionary/happy)
+
 

@@ -28,3 +28,13 @@ alt="Pharrell Williams- Happy" width="240" height="180" border="10" /></a>
 ### Here is a hyperlink to the Merriam-Webster definition of ["Happy"](https://www.merriam-webster.com/dictionary/happy)
 
 
+### Next is an inline code:
+Here is an incline code for my packpage `happymappy`
+
+
+### Finally, here is a code block:
+```
+pip install happymappy
+```
+
+##**Thanks for visiting! **

@@ -3,7 +3,17 @@
 2. serve as an example of a markdown file for Lab 2
 
 ## This markdown file will have:
--  
+- headers
+- hyperlinks
+- images
+- unordered lists
+    - this is an example of an unordered sublist
+- ordered lists
+    - the list above is an example of an ordered list
+- inline code
+- code blocks
+- YouTube videos
+but in no particular order
 
 
 ### Here is an image of something happy:
